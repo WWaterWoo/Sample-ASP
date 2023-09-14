@@ -1,4 +1,4 @@
-from debian:11
+from ubuntu:18.04
 
 WORKDIR backend-svr
 
